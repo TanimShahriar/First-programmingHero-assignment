@@ -53,6 +53,7 @@ body {
 }
 
 /* header section end */
+/* feature section started */
 
 .features {
   margin: 120px 240px;
@@ -78,7 +79,7 @@ body {
   /* align-items: end; */
   justify-content: space-around;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 80px;
 }
 
 .box-1 {
@@ -139,3 +140,40 @@ body {
   height: 471px;
   margin-top: 67px;
 }
+
+/* feature section end */
+
+/* service section started */
+.service {
+  margin: 140px 240px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  padding: 50px 0px;
+}
+
+.service-section {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.single-service img {
+  width: 80px;
+  height: 80px;
+}
+
+.single-service h6 {
+  color: rgba(39, 39, 39, 0.80);
+  font-size: 16px;
+  margin-top: 12px;
+}
+
+.service-1 {
+  margin-left: 150px;
+}
+
+.service-3 {
+  margin-right: 150px;
+}
+
+/* service section end */
