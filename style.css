@@ -381,6 +381,51 @@ body {
   border-radius: 8px;
   background: #E55473;
   border: none;
+  font-size: 20px;
+  color: white;
 }
 
 /* subscribe section end */
+
+
+/* footer section end */
+.footer {
+  background-color: #111010;
+  color: white;
+  height: 440px;
+}
+
+.footer-section {
+  text-align: center;
+  padding: 120px 0px;
+}
+
+.footer-section h2 {
+  color: #E55473;
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.footer-paragraph {
+  color: rgba(255, 255, 255, 0.90);
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: .7;
+  opacity: .7;
+}
+
+.copyright {
+  color: rgba(255, 255, 255, 0.40);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  opacity: .4;
+  margin-top: 30px;
+}
+
+.white-color {
+  color: white;
+}
+
+/* footer section end */
