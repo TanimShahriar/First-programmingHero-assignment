@@ -230,6 +230,71 @@ body {
 
 /* sale section end  */
 
+
+/* team section started  */
+
+.team {
+  margin: 120px 240px;
+  background-color: rgba(215, 247, 247, 0.562);
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.team-section-content {
+  text-align: center;
+}
+
+.team-section-content h2 {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.team-section-content p {
+  color: rgba(39, 39, 39, 0.60);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: .9;
+}
+
+.team-members {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.single-team-member img {
+  width: 340px;
+  height: 400px;
+}
+
+.single-team-member {
+  text-align: center;
+}
+
+.single-team-member h3 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.single-team-member h5 {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgba(17, 16, 16, 0.993);
+}
+
+.single-team-member p {
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(39, 39, 39, 0.60);
+}
+
+/* team section end  */
+
+
 /* instagram section started */
 .instagram {
   margin: 120px 240px;
@@ -270,6 +335,10 @@ body {
 }
 
 /* instagram section end */
+
+/* subscribe section started */
+
+
 .subscribe {
   margin: 0px 250px;
 }
@@ -313,3 +382,5 @@ body {
   background: #E55473;
   border: none;
 }
+
+/* subscribe section end */
