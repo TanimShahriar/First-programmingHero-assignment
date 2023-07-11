@@ -7,12 +7,11 @@ body {
 
 .flower-header-section {
   display: flex;
-  gap: 50px;
+  gap: 70px;
   justify-content: space-around;
   align-items: center;
   background: rgba(229, 84, 115, 0.10);
-  width: 1920px;
-  height: 800px;
+  height: 795px;
 }
 
 .flower-header-content {
@@ -38,7 +37,7 @@ body {
 .flower-header-img img {
   margin-bottom: -50px;
   width: 600px;
-  height: 750px;
+  height: 746px;
   margin-right: 200px;
 }
 
@@ -145,7 +144,7 @@ body {
 
 /* service section started */
 .service {
-  margin: 140px 240px;
+  margin: 140px 248px;
   border-radius: 8px;
   background: rgba(39, 39, 39, 0.05);
   padding: 50px 0px;
@@ -230,3 +229,44 @@ body {
 }
 
 /* sale section end  */
+
+/* instagram section started */
+.instagram {
+  margin: 120px 240px;
+}
+
+.instagram-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.instagram-paragraph {
+  color: rgba(39, 39, 39, 0.60);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.instagram-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.insta-box-1,
+.insta-box-4,
+.insta-box-3,
+.insta-box-4 {
+  width: 340px;
+  height: 400px;
+
+}
+
+.instagram-text {
+  text-align: center;
+}
+
+/* instagram section end */
