@@ -270,3 +270,46 @@ body {
 }
 
 /* instagram section end */
+.subscribe {
+  margin: 0px 250px;
+}
+
+.subscribe-section {
+  text-align: center;
+  height: 420px;
+  background-image: url("assets/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 120px;
+}
+
+.subscribe-section h2 {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.subscribe-section p {
+  color: rgba(39, 39, 39, 0.60);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.email-box {
+  width: 700px;
+  height: 55px;
+  margin-top: 30px;
+  border-radius: 8px;
+  border: none;
+  margin-right: 15px;
+}
+
+.subscribe-btn {
+  width: 150px;
+  height: 55px;
+  border-radius: 8px;
+  background: #E55473;
+  border: none;
+}
